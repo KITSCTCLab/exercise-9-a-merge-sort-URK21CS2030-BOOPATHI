@@ -51,3 +51,4 @@ for item in input_data.split(', '):
     data.append(int(item))
 merge_sort(data)
 print(data)
+
